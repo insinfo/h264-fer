@@ -1,0 +1,1 @@
+A baseline H.264 codec being developed by four students from the Faculty of Electrical Engineering and Computing at the University of Zagreb (Croatia)
